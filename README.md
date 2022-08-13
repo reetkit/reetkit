@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Ankit.
-###I'm a student pursuing B.Tech in Computer Science And Engineering.
+### I'm a student pursuing B.Tech in Computer Science And Engineering.
 More about me:
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning Flutter and Firebase
